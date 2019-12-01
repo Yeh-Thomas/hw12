@@ -25,6 +25,6 @@ Figuring out how the actual part works with the program, and adjusting them to w
 - Week 4: Present!
 
 ## References and links
-https://www.arduino.cc/en/reference/servo
-https://www.youtube.com/watch?v=JFFHzGBWSE4
-http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
+- https://www.arduino.cc/en/reference/servo
+- https://www.youtube.com/watch?v=JFFHzGBWSE4
+- http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
